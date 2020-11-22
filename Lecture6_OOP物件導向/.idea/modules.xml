@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Class18_類別/Class18_類別.iml" filepath="$PROJECT_DIR$/Class18_類別/Class18_類別.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Class19_封裝/Class19_封裝.iml" filepath="$PROJECT_DIR$/Class19_封裝/Class19_封裝.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Class20_繼承/Class20_繼承.iml" filepath="$PROJECT_DIR$/Class20_繼承/Class20_繼承.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Class21_多型/Class21_多型.iml" filepath="$PROJECT_DIR$/Class21_多型/Class21_多型.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Class22_抽象/Class22_抽象.iml" filepath="$PROJECT_DIR$/Class22_抽象/Class22_抽象.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Class23_介面/Class23_介面.iml" filepath="$PROJECT_DIR$/Class23_介面/Class23_介面.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Class24_套件/Class24_套件.iml" filepath="$PROJECT_DIR$/Class24_套件/Class24_套件.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Lecture6_OOP物件導向.iml" filepath="$PROJECT_DIR$/.idea/Lecture6_OOP物件導向.iml" />
+    </modules>
+  </component>
+</project>

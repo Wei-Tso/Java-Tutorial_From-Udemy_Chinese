@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Class10_陣列/Class10_陣列.iml" filepath="$PROJECT_DIR$/Class10_陣列/Class10_陣列.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Class5_變數與常數/Class5_變數與常數.iml" filepath="$PROJECT_DIR$/Class5_變數與常數/Class5_變數與常數.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Class6_基本與參考資料型態/Class6_基本與參考資料型態.iml" filepath="$PROJECT_DIR$/Class6_基本與參考資料型態/Class6_基本與參考資料型態.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Class7_字串/Class7_字串.iml" filepath="$PROJECT_DIR$/Class7_字串/Class7_字串.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Class8_資料型態轉換/Class8_資料型態轉換.iml" filepath="$PROJECT_DIR$/Class8_資料型態轉換/Class8_資料型態轉換.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Class9_運算符號/Class9_運算符號.iml" filepath="$PROJECT_DIR$/Class9_運算符號/Class9_運算符號.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Lecture2.iml" filepath="$PROJECT_DIR$/.idea/Lecture2.iml" />
+    </modules>
+  </component>
+</project>
